@@ -1,0 +1,4 @@
+puppet-beginners-guide-3
+*.log
+*.deb
+.vagrant
